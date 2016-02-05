@@ -22,6 +22,8 @@ span {
 }
 body {
   background-image: url(http://theiphonewalls.com/wp-content/uploads/2014/09/abstract-matrix.jpg);
+  width:auto;
+  height: auto;
 }
 
  div#title {
