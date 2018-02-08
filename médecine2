@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+		<title>Médecine 1</title>
+	</head>
+
+	<body>
+<div id="title">
+		<h1><u>Médecine 1</u></h1>
+	</div>
+<br>
+
+<div id="Photo"><h2 id="1">Médecine 1</h2>
+  <p>Médecine 1:</p>
+
+  <br>
+<a id="précédent" class="button red" href="médecine1.html">Précédent</a>
+</div>
+</body>
+</html>
