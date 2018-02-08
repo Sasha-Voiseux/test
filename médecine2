@@ -4,20 +4,21 @@
 		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
-		<title>Médecine 1</title>
+		<title>Médecine 2</title>
 	</head>
 
 	<body>
 <div id="title">
-		<h1><u>Médecine 1</u></h1>
+		<h1><u>Médecine 2</u></h1>
 	</div>
 <br>
 
-<div id="Photo"><h2 id="1">Médecine 1</h2>
-  <p>Médecine 1:</p>
+<div id="Photo"><h2 id="1">Médecine 2</h2>
+  <p>Médecine 2:</p>
 
   <br>
-<a id="précédent" class="button red" href="médecine1.html">Précédent</a>
+<a id="précédent" class="button red" href="médecine2.html">Précédent</a>
+<a id="suivant1" class="button red" href="médecine3.html">Suivant</a>
 </div>
 </body>
 </html>
