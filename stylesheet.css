@@ -21,7 +21,7 @@ span {
   margin: 70;
 }
 body {
-  background-image: url(http://www.savemi.be/wp-content/uploads/2016/06/Fond-d%C3%A9cran-1.jpg);
+  background-image: url(http://theiphonewalls.com/wp-content/uploads/2014/09/abstract-matrix.jpg);
 }
 
  div#title {
@@ -40,10 +40,10 @@ div#Terrae{
   margin-right:200;
   margin-bottom:250;
 
- padding-top:10;
- padding-bottom:10;
- padding-right:10;
- padding-left:10;
+  padding-top:10;
+  padding-left:10;
+  padding-right:10;
+  padding-bottom:10;
 
   background-color:#ecf0f1
 }
@@ -54,10 +54,10 @@ div#Terre{
   margin-right:200;
   margin-bottom:250;
 
- padding-top:10;
- padding-bottom:10;
- padding-right:10;
- padding-left:10;
+  padding-top:10;
+  padding-left:10;
+  padding-right:10;
+  padding-bottom:10;
 
   background-color:#ecf0f1
 }
@@ -68,10 +68,10 @@ div#Terre{
   margin-right:200;
   margin-bottom:250;
 
- padding-top:10;
- padding-bottom:10;
- padding-right:10;
- padding-left:10;
+  padding-top:10;
+  padding-left:10;
+  padding-right:10;
+  padding-bottom:10;
 
   background-color:#ecf0f1
 }
@@ -80,12 +80,12 @@ div#Photo{
   margin-top:100;
   margin-left:200;
   margin-right:200;
-  margin-bottom:200;
- 
+  margin-bottom:250;
+
   padding-top:10;
- padding-bottom:10;
- padding-right:10;
- padding-left:10;
+  padding-left:10;
+  padding-right:10;
+  padding-bottom:10;
 
   background-color:#ecf0f1
   }
@@ -431,5 +431,5 @@ a.button.icon.document:before {
 background-image: -webkit-gradient(linear, 50% 0, 50% 100%, from( rgba(0,0,0,.05) ), to( rgba(0,0,0,.15))), url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAgFJREFUeNp8k89LFGEYx7/zI0RsiCFU1DoG4VIH8bDFCrKdPHQIor/BUychCFRYOnQLIkjoZmyn6B4LiiDiQW3ayoQEL+Jo6ea6K607875vz/PurDuN2z7w7PvuPPP9vN/nfec1Hs7MgMMwjPs0DKBzLEgpt6UQUEpha3kZNk84aBycn52dq1Mx4JQSgmrNuud5mC8UJnktyh/87GYmA5NpURqSRUGgs16r4c/pKarVKiqVih7f53Jz9N490t5oWrIFiaMwGG3S7yXLapkOQ4QELpVKeJXPIzs8/PplPj9NlWcaIFsAk8WmxuACJJvN6nYcx8FHz/t97iCMO4gB2kHYiZ5Su60WqJBsIR5JCC9CmraARgumCUQrtYNYDYDZaiEGOHfQAWLRGP4HoPdA70PDzwXIk81pFE++YffWr0fOsftCyIBaoDNPOmBZO0jx6AtG745ic/fdtZLjU0kkWmAHdFRJyOPVKWwcFfl7RVmUoc6kIbvEGv1dt8u+j57e3n9OQSYgn/Y/wx27qlc5DA+ReXBniKZDix8WYG8vLeF6Oo1u17WjjdCiOGTkym1sFDwNCMaBrbff98Kuuk+3Yp2fdVP29afTORULAighpaKPR9HlUnTJ1MibjBrcSSnrqbvHGtbaTcDJwcHx5VTqeae7fJbyJ+RKrR8/1dcIEP4VYADvWB7N5+GLfwAAAABJRU5ErkJggg==);
 
 background-image: -moz-linear-gradient(top, rgba(0,0,0,.05) 0%, rgba(0,0,0,.15) 100%), url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAgFJREFUeNp8k89LFGEYx7/zI0RsiCFU1DoG4VIH8bDFCrKdPHQIor/BUychCFRYOnQLIkjoZmyn6B4LiiDiQW3ayoQEL+Jo6ea6K607875vz/PurDuN2z7w7PvuPPP9vN/nfec1Hs7MgMMwjPs0DKBzLEgpt6UQUEpha3kZNk84aBycn52dq1Mx4JQSgmrNuud5mC8UJnktyh/87GYmA5NpURqSRUGgs16r4c/pKarVKiqVih7f53Jz9N490t5oWrIFiaMwGG3S7yXLapkOQ4QELpVKeJXPIzs8/PplPj9NlWcaIFsAk8WmxuACJJvN6nYcx8FHz/t97iCMO4gB2kHYiZ5Su60WqJBsIR5JCC9CmraARgumCUQrtYNYDYDZaiEGOHfQAWLRGP4HoPdA70PDzwXIk81pFE++YffWr0fOsftCyIBaoDNPOmBZO0jx6AtG745ic/fdtZLjU0kkWmAHdFRJyOPVKWwcFfl7RVmUoc6kIbvEGv1dt8u+j57e3n9OQSYgn/Y/wx27qlc5DA+ReXBniKZDix8WYG8vLeF6Oo1u17WjjdCiOGTkym1sFDwNCMaBrbff98Kuuk+3Yp2fdVP29afTORULAighpaKPR9HlUnTJ1MibjBrcSSnrqbvHGtbaTcDJwcHx5VTqeae7fJbyJ+RKrR8/1dcIEP4VYADvWB7N5+GLfwAAAABJRU5ErkJggg==);
-  
+
 }
