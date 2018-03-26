@@ -36,8 +36,8 @@ body {
 }
 div#Terrae{
   margin-top:100;
-  margin-left:600;
-  margin-right:600;
+  margin-left:500;
+  margin-right:50;
   margin-bottom:250;
 
   padding-top:10;
@@ -50,8 +50,8 @@ div#Terrae{
 
 div#Terre{
   margin-top:100;
-  margin-left:600;
-  margin-right:600;
+  margin-left:50;
+  margin-right:50;
   margin-bottom:250;
 
   padding-top:10;
@@ -64,8 +64,8 @@ div#Terre{
 
 div#Terre{
   margin-top:100;
-  margin-left:600;
-  margin-right:600;
+  margin-left:50;
+  margin-right:50;
   margin-bottom:250;
 
   padding-top:10;
@@ -78,8 +78,8 @@ div#Terre{
 
 div#Photo{
   margin-top:100;
-  margin-left:600;
-  margin-right:600;
+  margin-left:50;
+  margin-right:50;
   margin-bottom:250;
 
   padding-top:10;
