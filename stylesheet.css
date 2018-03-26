@@ -40,10 +40,10 @@ div#Terrae{
   margin-right:50;
   margin-bottom:250;
 
-  padding-top:10;
-  padding-left:30;
-  padding-right:30;
-  padding-bottom:10;
+ padding-top:2px;
+ padding-bottom:2px;
+ padding-right:5px
+ padding-left:5px;
 
   background-color:#ecf0f1
 }
@@ -54,10 +54,10 @@ div#Terre{
   margin-right:50;
   margin-bottom:250;
 
-  padding-top:10;
-  padding-left:30;
-  padding-right:30;
-  padding-bottom:10;
+ padding-top:2px;
+ padding-bottom:2px;
+ padding-right:5px
+ padding-left:5px;
 
   background-color:#ecf0f1
 }
@@ -68,10 +68,10 @@ div#Terre{
   margin-right:50;
   margin-bottom:250;
 
-  padding-top:10;
-  padding-left:30;
-  padding-right:30;
-  padding-bottom:10;
+ padding-top:2px;
+ padding-bottom:2px;
+ padding-right:5px
+ padding-left:5px;
 
   background-color:#ecf0f1
 }
@@ -81,11 +81,11 @@ div#Photo{
   margin-left:50;
   margin-right:50;
   margin-bottom:250;
-
-  padding-top:10;
-  padding-left:30;
-  padding-right:30;
-  padding-bottom:10;
+ 
+  padding-top:2px;
+ padding-bottom:2px;
+ padding-right:5px
+ padding-left:5px;
 
   background-color:#ecf0f1
   }
